@@ -30,11 +30,6 @@ set laststatus=2
 
 packadd nerdtree
 
-packadd vimcompletesme
-
-packadd emmet
-let g:user_emmet_leader_key='<C-Z>'
-
 set number
 
 set hlsearch
