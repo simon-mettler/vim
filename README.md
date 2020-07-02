@@ -1,10 +1,10 @@
-# Vim Setup
+# [Vim](https://www.vim.org/) Setup
 
 Probably not up to date...
 
-## Plugins
+## Plugins and Themes
 
-- [The NERDTree](https://github.com/preservim/nerdtree)
+- [NERDTree](https://github.com/preservim/nerdtree)
 - [lightline.vim](https://github.com/itchyny/lightline.vim)
-- [onedakr.vim](https://github.com/joshdick/onedark.vim)
-
+- [vim-javascript](https://github.com/pangloss/vim-javascript)
+- [onedark.vim](https://github.com/joshdick/onedark.vim)
