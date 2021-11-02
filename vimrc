@@ -42,6 +42,7 @@ packadd supertab
 set laststatus=2
 
 packadd nerdtree
+packadd vim-fugitive 
 
 set number
 
