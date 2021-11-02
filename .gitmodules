@@ -1,0 +1,9 @@
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "pack/plugins/start/lightline"]
+	path = pack/plugins/start/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "pack/plugins/start/supertab"]
+	path = pack/plugins/start/supertab
+	url = git@github.com:ervandew/supertab.git
