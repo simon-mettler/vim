@@ -80,6 +80,8 @@ nnoremap tm :tabm<space>
 
 " vim fugitive
 nmap <leader>gs :G<CR>
+nmap <leader>gc :Git commit<CR>
+nmap <leader>gp :Git push<CR>
 
 " Vim Window 
 nnoremap <leader>w <C-w>
