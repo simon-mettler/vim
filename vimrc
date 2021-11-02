@@ -78,6 +78,9 @@ nnoremap tl :tablast<cr>
 nnoremap te :tabedit<space>
 nnoremap tm :tabm<space>
 
+" vim fugitive
+nmap <leader>gs :G<CR>
+
 " Vim Window 
 nnoremap <leader>w <C-w>
 
