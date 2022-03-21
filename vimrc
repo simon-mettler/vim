@@ -36,6 +36,7 @@ colorscheme onedark
 packadd lightline
 
 packadd vim-javascript
+packadd vim-pug
 
 packadd supertab 
 
